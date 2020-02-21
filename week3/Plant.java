@@ -7,7 +7,7 @@ public Plant(String nameIn){
     public Livingthing breed(Livingthing partner){
     if (partner instanceof Plant) {
     System.out.println("hhhaaaa");
-    return new Plant("aaahhhh")
+    return new Plant("aaahhhh");
     }
     System.out.println("no");
         return null;

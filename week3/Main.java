@@ -5,7 +5,7 @@ public class main{
         Human secondHuman = new Human("Second Human");
 
         theworld.addlivingthing(firsthuman);
-        theworld.addlivingthing(secondHuman)
+        theworld.addlivingthing(secondHuman);
 
         Human babyHuman = (Human) firstHuman.breed(secondHuman);
         
