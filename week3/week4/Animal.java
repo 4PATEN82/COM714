@@ -12,6 +12,6 @@ public abstarct class Animal(){
         }
 
         public void setenergy(String energyIn){
-            energy = energyIn;
+            String energy = energyIn;
         }
 }
