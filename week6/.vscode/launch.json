@@ -4,8 +4,7 @@
             "type": "java",
             "name": "CodeLens (Launch) - Gui",
             "request": "launch",
-            "mainClass": "Gui",
-            "projectName": "Nisarg_69c4b5cf"
+            "mainClass": "week6.Gui"
         }
     ]
 }
