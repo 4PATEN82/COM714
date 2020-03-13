@@ -4,6 +4,12 @@
             "type": "java",
             "name": "CodeLens (Launch) - Gui",
             "request": "launch",
+            "mainClass": "Gui"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Gui",
+            "request": "launch",
             "mainClass": "Gui",
             "projectName": "Nisarg_69c4b5cf"
         }
